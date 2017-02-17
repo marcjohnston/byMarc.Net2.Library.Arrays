@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.Library.Arrays" Title="byMarc.Net2.Library.Arrays Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays.ArrayLib.ArrayContains" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000001_overloads--.html" LinkGroup="byMarc.Net2.Library.Arrays">ArrayContains Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays.ArrayLib.ArrayContains" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000003_overloads--.html" LinkGroup="byMarc.Net2.Library.Arrays">ArrayContains Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays.ArrayLib.ArrayContains(Of t)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.Library.Arrays">ArrayContains(Of t) Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays.ArrayLib" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net2.Library.Arrays">ArrayLib Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays.ArrayLib.IntersectArray" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net2.Library.Arrays">IntersectArray Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays.ArrayLib.Regroup(Of t)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.Library.Arrays">Regroup(Of t) Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000009.html" LinkGroup="byMarc.Net2.Library.Arrays">byMarc.Net2.Library.Arrays Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Arrays Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Arrays.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.Library.Arrays">byMarc.Net2.Library.Arrays Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
